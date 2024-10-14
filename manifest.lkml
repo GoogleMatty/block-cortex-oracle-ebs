@@ -1,15 +1,15 @@
 constant: CONNECTION_NAME {
-  value: "cortex"
+  value: "cortex-v6"
   export: override_required
 }
 
 constant: GCP_PROJECT_ID {
-  value: "GCP Project ID"
+  value: "cortex-demo-v6"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "Reporting Dataset Name"
+  value: "REPORTING_OracleEBS"
   export: override_required
 }
 
